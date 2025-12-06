@@ -35,8 +35,8 @@ class _GameScreenState extends State<GameScreen>
     ));
 
     _rightSlideAnimation = Tween<Offset>(
-      begin: Offset.zero, 
-      end: Offset.zero,   
+      begin: Offset.zero,
+      end: Offset.zero,
     ).animate(CurvedAnimation(
       parent: _slideController,
       curve: Curves.easeInOut,
