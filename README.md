@@ -25,7 +25,7 @@ Like the "The Higher Lower Game," Spotify Higher or Lower challenges players to 
 
 ## MVVM Architecture
 
-<!-- TODO: Add an excalidraw -->
+![MVVM Diagram](MVVM_Diagram.png)
 
 ## Advanced Features
 
